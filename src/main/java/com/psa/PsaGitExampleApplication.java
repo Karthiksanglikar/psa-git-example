@@ -11,6 +11,7 @@ public class PsaGitExampleApplication {
 		int y=10;
 		char c='a';
 		String z="hello";
+		var v =99777;
 		SpringApplication.run(PsaGitExampleApplication.class, args);
 	}
 
